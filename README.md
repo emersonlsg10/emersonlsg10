@@ -3,7 +3,6 @@
 <div align="center">
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tech-emerson-silva/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/emersonlsg10)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:emersonlsg10@gmail.com)
 
 </div>
@@ -112,34 +111,36 @@ Built a strong foundation on **99Freelas**, earning client trust through technic
 
 ---
 
-## 📊 GitHub Stats
+## 🏆 Featured Projects
 
 <div align="center">
-  
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=emersonlsg10&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emersonlsg10&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9"/>
 
-</div>
-
-<div align="center">
-  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=emersonlsg10&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=30363D&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF)](https://git.io/streak-stats)
+| Project | Description | Tech |
+|:--------|:------------|:-----|
+| [**barber-scheduler**](https://github.com/emersonlsg10/barber-scheduler) | A Schedules System mobile first to barbers | `Adonis.js` `Next.js` |
+| [**laravel-multi-tenancy**](https://github.com/emersonlsg10/laravel-multi-tenancy) | Registration system with multi tenancy multi database | `Laravel 7` `MySQL` |
+| [**workshop-ifma-marvel-heroes**](https://github.com/emersonlsg10/workshop-ifma-marvel-heroes) | Projeto para ensino básico de API Laravel | `PHP` `Laravel` |
+| [**videos_list_app**](https://github.com/emersonlsg10/videos_list_app) | Lança Flix: List of Netflix movie releases | `JavaScript` `React` |
 
 </div>
 
 ---
 
-## 🏆 Featured Projects
+## 📈 Experience Timeline
 
-<div align="center">
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=emersonlsg10&repo=barber-scheduler&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff)](https://github.com/emersonlsg10/barber-scheduler)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=emersonlsg10&repo=laravel-multi-tenancy&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff)](https://github.com/emersonlsg10/laravel-multi-tenancy)
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=emersonlsg10&repo=workshop-ifma-marvel-heroes&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff)](https://github.com/emersonlsg10/workshop-ifma-marvel-heroes)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=emersonlsg10&repo=videos_list_app&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff)](https://github.com/emersonlsg10/videos_list_app)
-
-</div>
+```
+2024 - Present  →  Lead Software Engineer @ Inicie
+                   Leading EdTech solutions impacting millions of students
+                   
+2020 - 2024     →  Senior Full Stack Developer
+                   Architected Octoclass & Agente 86
+                   
+2017 - 2020     →  Full Stack Developer
+                   Built mobile apps & freelance projects
+                   
+2016 - 2017     →  Junior Developer
+                   Started journey in web development
+```
 
 ---
 
