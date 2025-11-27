@@ -14,8 +14,7 @@
 ```typescript
 const emerson: SoftwareEngineer = {
   location: "Brazil 🇧🇷",
-  company: "Inicie",
-  role: "Lead Software Engineer",
+  role: "Senior Software Engineer",
   experience: "8+ years",
   impact: "Millions of users across Brazil",
   passion: ["EdTech", "Social Impact", "Clean Architecture", "Scalable Systems"]
@@ -129,7 +128,7 @@ Built a strong foundation on **99Freelas**, earning client trust through technic
 ## 📈 Experience Timeline
 
 ```
-2024 - Present  →  Lead Software Engineer @ Inicie
+2024 - Present  →  Senior Software Engineer
                    Leading EdTech solutions impacting millions of students
                    
 2020 - 2024     →  Senior Full Stack Developer
